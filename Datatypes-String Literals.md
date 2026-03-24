@@ -17,3 +17,5 @@ print(men_stepped_on_the_moon)
 <img width="1040" height="281" alt="image" src="https://github.com/user-attachments/assets/fb9b3c11-c22f-46e3-a478-aca5da7cac4d" />
 
 ## Result
+Thus,the Python program to read a string from the user and then print it is created successfully.
+
