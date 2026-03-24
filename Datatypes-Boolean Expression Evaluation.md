@@ -15,7 +15,15 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-Add Code here
+```
+a=int(input())
+if a%2==0:
+    print("EVEN")
+else:
+    print("ODD")
+```
 
 ## Output
+<img width="825" height="447" alt="image" src="https://github.com/user-attachments/assets/e47dc86d-94d4-4edf-82c8-0d954a076428" />
+
 ## Result
